@@ -37,7 +37,7 @@ bash -c "$(echo 706b6720696e7374616c6c20676974202d792026262067697420636c6f6e6520
   4)
    echo "Đang chạy lệnh thứ 4..."
    # Lệnh 4
-   termux-open https://www.facebook.com/pv.tuan.195555
+   termux-open https://www.facebook.com/levan.manh.739978
     ;;
   0)
     echo "Thoát chương trình."
